@@ -6,7 +6,7 @@
 
 `curl localhost:9994/api/bazi    -H 'Token:' --data 'date=2017-08-31-12'`
 
-
+![image](https://github.com/chriswangweb/name-child-better/blob/master/WX20181109-184557%402x.png)
 
 
 ### 主函数，入参是生辰，性别，单双名选择，阳历阴历，是否闰月
